@@ -7,8 +7,8 @@ class FindmyCli < Formula
   head "https://github.com/omarshahine/findmy-cli.git", branch: "main"
 
   depends_on "go" => :build
-  depends_on :macos
   depends_on xcode: :build
+  depends_on :macos
 
   def install
     system "make", "build"
