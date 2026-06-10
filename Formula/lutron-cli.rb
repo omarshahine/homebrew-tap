@@ -3,8 +3,8 @@ class LutronCli < Formula
 
   desc "Command-line client for Lutron Caseta Smart Bridges"
   homepage "https://github.com/omarshahine/lutron-cli"
-  url "https://github.com/omarshahine/lutron-cli/archive/refs/tags/v0.1.8.tar.gz"
-  sha256 "8c3646d4e3dd858b148dd8b13b8eb6f385d9967cb12dbd935488e71deac955c6"
+  url "https://github.com/omarshahine/lutron-cli/archive/refs/tags/v0.1.9.tar.gz"
+  sha256 "c0211504b8b7be45feaaad87ea696d52c88df01675a3da6c1be92c4311852e9f"
   license "MIT"
   head "https://github.com/omarshahine/lutron-cli.git", branch: "main"
 
