@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "spotmoji" do
-  version "0.2.0"
-  sha256 "aeb8b37189c2c936a7fcf229196662a95756d039cc84f062f40e5ea41fb453e1"
+  version "0.3.0"
+  sha256 "41178a23bcc31b99b2eb8b482b5391c20c36766e7edd477f42aab02ac2624876"
 
   url "https://github.com/omarshahine/homebrew-tap/releases/download/spotmoji-v#{version}/Spotmoji-#{version}.zip",
       verified: "github.com/omarshahine/homebrew-tap/"
@@ -11,6 +11,7 @@ cask "spotmoji" do
   desc "Spotlight-first native emoji picker"
   homepage "https://omarknows.app/spotmoji/"
 
+  auto_updates true
   depends_on macos: :sonoma
 
   app "Spotmoji.app"
