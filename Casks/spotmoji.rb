@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "spotmoji" do
-  version "0.3.0"
-  sha256 "41178a23bcc31b99b2eb8b482b5391c20c36766e7edd477f42aab02ac2624876"
+  version "0.3.1"
+  sha256 "82e974ef7b9447a403b7b5219630a7ccade41753601149c20d143f562ff8a8f1"
 
   url "https://github.com/omarshahine/homebrew-tap/releases/download/spotmoji-v#{version}/Spotmoji-#{version}.zip",
       verified: "github.com/omarshahine/homebrew-tap/"
