@@ -1,8 +1,8 @@
 class ApplePimCli < Formula
   desc "macOS Calendar, Reminders, Contacts, and Mail CLIs via EventKit"
   homepage "https://github.com/omarshahine/apple-pim"
-  url "https://github.com/omarshahine/apple-pim/archive/refs/tags/v3.14.0.tar.gz"
-  sha256 "9672e847db78c1dd9688ba5175c8c622c9f112bae79938215e2b5aae4599c7c7"
+  url "https://github.com/omarshahine/apple-pim/archive/refs/tags/v3.15.0.tar.gz"
+  sha256 "9c023a141b0f229f244eaf6052fad948e72e301053e018df85f53b182122dca2"
   license "MIT"
   head "https://github.com/omarshahine/apple-pim.git", branch: "main"
 
