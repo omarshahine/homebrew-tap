@@ -14,8 +14,8 @@ class ApplePimCli < Formula
   # The signed binaries carry a requirement anchored on Apple's certificate
   # chain and team OU instead, which is independent of the binary's contents,
   # so a grant survives every upgrade and certificate renewal.
-  url "https://github.com/omarshahine/apple-pim/releases/download/v3.17.0/apple-pim-clis-3.17.0-universal.zip"
-  sha256 "806ab420acfccf497230d520c2083bd23b2356102eb8114ee0ec33ad30031786"
+  url "https://github.com/omarshahine/apple-pim/releases/download/v3.18.0/apple-pim-clis-3.18.0-universal.zip"
+  sha256 "4c8a68fdc0144042f0c6a6d20f28ed5830290d9b9fe7a6b6aaeeb9bc8cc93002"
   license "MIT"
 
   # macOS 13 is the package's deployment target. The binaries are universal
