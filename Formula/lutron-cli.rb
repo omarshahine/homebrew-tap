@@ -47,6 +47,11 @@ class LutronCli < Formula
     sha256 "266a806f29e6fca6f6a572c5739734f5041c0b5aec16e03a189455a7ac80b72f"
   end
 
+  resource "xdg" do
+    url "https://files.pythonhosted.org/packages/33/fe/67bc1f8ee2782bca3cdc63558a64f843bb9f88e15793475350809fbd8e01/xdg-5.1.1.tar.gz"
+    sha256 "aa619f26ccec6088b2a6018721d4ee86e602099b24644a90a8d3308a25acd06c"
+  end
+
   resource "zeroconf" do
     url "https://files.pythonhosted.org/packages/83/34/c981e760690f7b7dc91532d4d4ad21e3922887aaa425a0e7bff8067152da/zeroconf-0.149.16.tar.gz"
     sha256 "5e6b5a3b153c2cc2a8d9e6f6f189ec5638f7d9c86fc3e88a6c53eb6863761a5e"
