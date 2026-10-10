@@ -1,8 +1,8 @@
 class FindmyCli < Formula
   desc "Query Find My friend locations via macOS FindMy.app UI scraping"
   homepage "https://github.com/omarshahine/findmy-cli"
-  url "https://github.com/omarshahine/findmy-cli/archive/refs/tags/v0.3.2.tar.gz"
-  sha256 "952eaae83f37b52d878649c47a0146761a31da110ed8dad89a411710a189157a"
+  url "https://github.com/omarshahine/findmy-cli/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "cbb5e37548a09a71268f65d3d27ea1a84d2abe096a119c91c6ead96448323809"
   license "MIT"
   head "https://github.com/omarshahine/findmy-cli.git", branch: "main"
 
