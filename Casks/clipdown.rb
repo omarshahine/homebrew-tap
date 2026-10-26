@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "clipdown" do
-  version "1.1.2"
-  sha256 "1396acff0ffd54db46443d57f99c84ee51e21294e8eae37fafdb9d2ab7aeac81"
+  version "1.2.0"
+  sha256 "0bfc78ebceb77a1c7e68c2e7e2b341dcf28fc6614f4284108b9af57cc08896f3"
 
   url "https://github.com/omarshahine/homebrew-tap/releases/download/clipdown-v#{version}/ClipDown-#{version}.zip"
   name "ClipDown"
