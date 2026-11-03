@@ -1,8 +1,8 @@
 class TraktCli < Formula
   desc "Track movies and TV shows via the Trakt.tv API"
   homepage "https://github.com/omarshahine/trakt-plugin"
-  url "https://github.com/omarshahine/trakt-plugin/archive/refs/tags/v1.11.0.tar.gz"
-  sha256 "5d9eab8063e6a0ddcc33ba47c0079f388f9fd0c71d6f232b550aeb25696385f1"
+  url "https://github.com/omarshahine/trakt-plugin/archive/refs/tags/v1.11.1.tar.gz"
+  sha256 "460ed256103fff9a23ccca534503f43f9dec278326342bc74c6c84ccb0f0475f"
   license "MIT"
   head "https://github.com/omarshahine/trakt-plugin.git", branch: "main"
 
