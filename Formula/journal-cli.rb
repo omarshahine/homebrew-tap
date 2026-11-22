@@ -1,8 +1,8 @@
 class JournalCli < Formula
   desc "Read and write Apple Journal entries from the terminal"
   homepage "https://github.com/omarshahine/apple-journal-cli"
-  url "https://github.com/omarshahine/apple-journal-cli/archive/refs/tags/v1.5.1.tar.gz"
-  sha256 "af67121c018425888ea72853855ec4dc56bbe756650d32de4bf5afacfab05dde"
+  url "https://github.com/omarshahine/apple-journal-cli/archive/refs/tags/v1.5.2.tar.gz"
+  sha256 "06fe3b061e05d681f09de4be8c249e0366b65368d62f8717699b8e9addeae42f"
   license "MIT"
   head "https://github.com/omarshahine/apple-journal-cli.git", branch: "main"
 
